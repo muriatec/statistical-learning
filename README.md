@@ -1,6 +1,6 @@
 # UCSD ECE 271A Statistical Learning
 
-Implemented Histogram Estimation, Maximum Likelihood Estimation (MLE), Bayes Estimation, Maximum A Posteriori (MAP) Estimation, and Expectation Maximization (EM).
+Implemented Histogram Estimation, Maximum Likelihood Estimation (MLE), Bayes Estimation, Maximum A Posteriori (MAP) Estimation, and Expectation Maximization (EM) to perform classification on the cheetah dataset.
 ## Ground Truth
 ![image](https://github.com/muriatec/statistical-learning/assets/52921638/80d01883-f979-4b69-af2a-2f01de2223c0)
 ## MLE for 8D Gaussian
